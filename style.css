@@ -1,0 +1,105 @@
+
+#navbar{
+    display: flex;
+    position: relative;
+}
+
+body{
+    background-color: ghostwhite;
+}
+
+.heading{
+    text-align: center;
+    justify-content: center;
+}
+
+h2{
+    margin: 103px 1px;
+    padding: 37px 1px;
+    font-size: 36px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+h3{
+    margin: 166px -145px;
+    padding: 26px 15px;
+    font-size: 22px;
+}
+
+
+img{
+    border-radius: 50%;
+    height: 206px;
+    width: 225px;
+    margin: 40px 45px;
+    padding: 19px 52px;
+}
+
+h1{
+    margin: -54px 42px;
+    padding: 80px 2px;
+    font-size: 42px;
+}
+
+#home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 200px;
+    padding: 4px 24px;
+}
+     
+#home p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.h-primary center{
+    margin-top: 20px;
+    position: relative;
+    top: 60px;
+}
+
+#fame{
+    margin: 34px;
+    display: flex;
+}
+#fame .box{ 
+    border: 2px solid black;
+    padding: 34px;
+    margin: 159px 41px;
+    border-radius: 35px;
+    background: blueviolet;
+    margin-bottom: 27px;
+    height: 268px;
+}
+
+#fame .box img{ 
+   height: 240px;
+   margin: auto;
+   display: block;
+}
+
+#fame .box p{
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    font-weight: 900;
+
+}
+
+.box h2{
+    margin: -10px 1px;
+    padding: 79px 23px;
+    font-size: 36px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.box p{
+    margin: -83px 9px;
+    padding: 39px 20px;
+}
